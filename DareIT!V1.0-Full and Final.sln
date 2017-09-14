@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{20A164C8-536B-5F83-AE59-D52579693C82}") = "DareIT!V1.0-Full and Final", "Assembly-CSharp.csproj", "{A96B256C-F463-8BF9-87E4-7ACB59CDE3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A96B256C-F463-8BF9-87E4-7ACB59CDE3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96B256C-F463-8BF9-87E4-7ACB59CDE3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96B256C-F463-8BF9-87E4-7ACB59CDE3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96B256C-F463-8BF9-87E4-7ACB59CDE3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
